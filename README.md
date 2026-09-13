@@ -1,16 +1,51 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ⚡ FINTRACK-PRO // FULL-STACK FINTECH ENGINE
 
-Currently, two official plugins are available:
+<p align="center">
+  <b>A high-performance, enterprise-ready financial tracking ecosystem engineered for modern wealth management.</b>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Production%20Ready-00FF66?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Full%20Stack-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%2B%20Tailwind-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-## React Compiler
+</div>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💻 Live Dashboard Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<div align="center">
+  <img src="./dashboard-preview.png" alt="Fintrack-Pro Dashboard Preview" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+</div>
+
+---
+
+## 🛠️ System Architecture & Tech Stack
+
+Fintrack-Pro is structured with a decoupled client-server architecture to ensure maximum scalability, clean separation of concerns, and optimal query execution speeds.
+
+* **Frontend:** React (Vite-powered), Tailwind CSS (Dark-mode optimized fintech UI), Axios for asynchronous HTTP routing.
+* **Backend:** Node.js, Express.js RESTful API architecture with modular routing and controllers.
+* **Database:** Relational MySQL database with optimized transaction logs and structured schema design.
+
+---
+
+## ⚙️ Core Engineering Modules
+
+```text
+my project/
+├── my-api/                 # Backend Server Core
+│   ├── config/             # Database connection pool setup
+│   ├── controllers/        # Business logic & transaction handlers
+│   ├── routes/             # API endpoint routing definitions
+│   └── server.js           # Express app entry point
+└── src/                    # Frontend Client Workspace
+    ├── assets/             # UI graphics & branding elements
+    ├── App.jsx             # Main dashboard view components
+    └── index.css           # Tailwind styling configuration
