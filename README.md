@@ -9,9 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Contributions-Welcome-orange.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/Akashdeep-bit-gif/Fintrack-Pro?style=for-the-badge&color=blue" />
-</p>
-
+ <img src="https://img.shields.io/github/license/Akashdeep-bit-gif/Fintrack-Pro?style=for-the-badge&color=blue" />
 </div>
 
 ---
