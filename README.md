@@ -19,9 +19,7 @@
 ---
 ## 💻 Live Dashboard Preview
 
-<div align="center">
-  <img src="./deployment.png" alt="Fintrack-Pro Dashboard" width="100%" />
-</div>
+![Fintrack-Pro Dashboard](./deployment.png)
 
 ---
 
