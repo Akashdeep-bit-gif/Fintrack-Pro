@@ -16,8 +16,7 @@
 
 </div>
 
----
-
+<img src="./deployment.png" alt="Fintrack-Pro Dashboard Preview" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
 ## 💻 Live Dashboard Preview
 
 <div align="center">
