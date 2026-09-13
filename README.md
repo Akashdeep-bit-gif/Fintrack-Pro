@@ -16,11 +16,11 @@
 
 </div>
 
-<img src="./deployment.png" alt="Fintrack-Pro Dashboard Preview" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+---
 ## 💻 Live Dashboard Preview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Akashdeep-bit-gif/Fintrack-Pro/main/deployment.png" alt="Fintrack-Pro Dashboard Preview" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
+  <img src="https://github.com/Akashdeep-bit-gif/Fintrack-Pro/blob/main/deployment.png?raw=true" alt="Fintrack-Pro Dashboard Preview" width="100%" style="border-radius: 8px; border: 1px solid #30363d;" />
 </div>
 
 ---
